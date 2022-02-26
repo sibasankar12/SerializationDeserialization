@@ -1,0 +1,16 @@
+{
+  "companyName" : "tyss",
+  "empno" : "tyss09",
+  "phoneno" : [ 24455, 54865 ],
+  "empdetails" : [ {
+    "name" : "siba",
+    "empid" : "AB124",
+    "phoneno" : 2555,
+    "email" : "siba12@gmail.com"
+  }, {
+    "name" : "sankar",
+    "empid" : "CD456",
+    "phoneno" : 1247,
+    "email" : "sankar23@gmail.com"
+  } ]
+}

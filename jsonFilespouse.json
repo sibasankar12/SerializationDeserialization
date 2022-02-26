@@ -1,0 +1,11 @@
+{
+  "name" : "siba",
+  "email" : "sahusibasankar28@gmail.com",
+  "empid" : 12345,
+  "spouse" : {
+    "name" : "sakira",
+    "empid" : 11245,
+    "email" : "sakira28@gmail.com",
+    "phoneno" : 135666141
+  }
+}
